@@ -17,7 +17,7 @@ public class PolypeptidePrinter {
         System.out.println(chain);
         JOptionPane.showMessageDialog(null, chain);
         try {
-            File file = new File("C:\\CODING_PROJECTS\\PolypeptidePrinter\\PolypeptideChain.txt");
+            File file = new File("PolypeptideChain.txt");
             PrintWriter pw = new PrintWriter(new FileWriter(file));
             pw.println(chain);
             pw.flush();
