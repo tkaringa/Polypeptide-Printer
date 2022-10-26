@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 import javax.swing.*;
-public class Main {
+public class PolypeptidePrinter {
     public static void main(String[] args) {
         String dnaSequence = "ATTGGTTATACTTGTTCTATT"; //default DNA sequence
         ArrayList<String> codons = new ArrayList<String>();
