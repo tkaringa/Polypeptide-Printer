@@ -1,0 +1,13 @@
+<ISOLEUCINE>
+   |
+<GLYCINE>
+   |
+<TYROSINE>
+   |
+<THREONINE>
+   |
+<CYSTEINE>
+   |
+<SERINE>
+   |
+<ISOLEUCINE>
