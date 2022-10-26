@@ -2,7 +2,7 @@
 
 ## Function of this program
 This program, when given a sequence of Human DNA (must be human DNA as the codons in the program only account for the 20 Amino Acids found in the human body)
-will print out a Polypeptide Chain of all the amino acids connected together. It sends this output to a file called "PeptideChain.txt".
+will print out a Polypeptide Chain of all the amino acids connected together. It sends this output to a file called "PolypeptideChain.txt".
 
 ## Sample Output
 When provided with the sequence: "ATTGGTTATACTTGTTCTATT"
